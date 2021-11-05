@@ -1,4 +1,6 @@
-### Hi there 👋
+👋 Hey there, I'm Shaun. I'm currently at [@scribd](https://github.com/scribd), focused on building infrastructure and tooling to support engineering productivity.
+
+
 
 <!--
 **shaunbennett/shaunbennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
